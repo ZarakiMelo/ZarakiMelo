@@ -13,7 +13,7 @@ I am a fullstack developer passionate about web development. With expertise in v
 - 📫 You can reach me via [email](mailto:chahbisamy@hotmail.fr) or on [LinkedIn](www.linkedin.com/in/samy-chahbi-a2344a121).
 
 ### Portfolio
-- 🌐 You can visit my portfolio [here]([https://www.votre-portfolio.com](https://portfolio-hcdiszh93-zarakimelos-projects.vercel.app/)) to see some of my projects and learn more about my professional journey.
+- 🌐 You can visit my portfolio [here](https://www.votre-portfolio.com](https://portfolio-hcdiszh93-zarakimelos-projects.vercel.app/)) to see some of my projects and learn more about my professional journey.
 
 <!---
 ZarakiMelo/ZarakiMelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
